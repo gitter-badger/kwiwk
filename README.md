@@ -8,31 +8,39 @@ Modern terminal text editor for the rest of us
 
 ### Project Proposal
 
-Proposed Features:
-- Text editor
-- Tabs
-- Horizontal and vertical splitting
+Proposed Goals:
+- Tabbed, Text editor
 - File browser
-- Integrated terminal
-- Command palette
+- Searchable command palette
+- Fuzzy file finder
 - Syntax highlighting
 - Project specific settings
 - Language specific settings
+- Plugin system
+
+Stretch Goals
+- Split horizontal & vertical
+- Customizable appearance
 - Mouse support
 - Man page
-- Plugin system
-- Customizable appearance
+- Add to popular software repos (Ubuntu PPA, AUR, etc.)
+- Integrated terminal
+
 
 ### Team Members
-|Role|User|Role Description|
+|Role|User|Description|
 |---|---|---|
 |Team Lead|@russleyshaw|Manages and oversees development team. Creates, distributes, manages issues and velocity. |
 |DevOps||Uses tools such as Vagrant, Docker, continuous integration, linting to make make developer's lives easier. Also responsible for workflow and compilation process|
-|C++ Developer|   |   |
+|C++ Developer|||
 |C++ Developer|||
 |C++ Developer|||
 |C++ Developer|||
 |Quality Assurance||Uses unit testing, linting, static analysis, runtime analysis to verify code and executable quality is high.|
+
+### Installation
+
+### Building
 
 ### Usage
 ```
