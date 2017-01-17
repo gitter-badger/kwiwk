@@ -8,6 +8,21 @@ Modern terminal text editor for the rest of us
 
 ### Project Proposal
 
+Proposed Features:
+- Text editor
+- Tabs
+- Horizontal and vertical splitting
+- File browser
+- Integrated terminal
+- Command palette
+- Syntax highlighting
+- Project specific settings
+- Language specific settings
+- Mouse support
+- Man page
+- Plugin system
+- Customizable appearance
+
 ### Team Members
 |Role|User|Role Description|
 |---|---|---|
