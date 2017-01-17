@@ -4,6 +4,8 @@ Modern terminal text editor for the rest of us
 ### Table of Contents
 - [Project Proposal](#project-proposal)
 - [Team Members](#team-members)
+- [Installing](#installing)
+- [Building](#building)
 - [Usage](#usage)
 
 ### Project Proposal
