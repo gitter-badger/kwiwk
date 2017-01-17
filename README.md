@@ -4,6 +4,7 @@ Modern terminal text editor for the rest of us
 ### Table of Contents
 - [Project Proposal](#project-proposal)
 - [Team Members](#team-members)
+- [Usage](#usage)
 
 ### Project Proposal
 
@@ -17,3 +18,8 @@ Modern terminal text editor for the rest of us
 |C++ Developer|||
 |C++ Developer|||
 |Quality Assurance||Uses unit testing, linting, static analysis, runtime analysis to verify code and executable quality is high.|
+
+### Usage
+```
+kwk [folder/files]
+```
