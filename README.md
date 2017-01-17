@@ -1,6 +1,7 @@
 # kwiwk
-Modern terminal text editor for the rest of us
+Modern terminal text editor for the rest of us  
 
+[![Build Status](https://travis-ci.org/russleyshaw/kwiwk.svg?branch=master)](https://travis-ci.org/russleyshaw/kwiwk)  
 ### Table of Contents
 - [Project Proposal](#project-proposal)
 - [Team Members](#team-members)
