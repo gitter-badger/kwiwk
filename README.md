@@ -1,13 +1,13 @@
 # kwiwk
 Modern terminal text editor for the rest of us
 
-## Table of Contents
+### Table of Contents
 - [Project Proposal](#project-proposal)
 - [Team Members](#team-members)
 
-## Project Proposal
+### Project Proposal
 
-## Team Members
+### Team Members
 |Role|User|Role Description|
 |---|---|---|
 |Team Lead|@russleyshaw|Manages and oversees development team. Creates, distributes, manages issues and velocity. |
