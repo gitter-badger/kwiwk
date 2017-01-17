@@ -7,6 +7,7 @@ Modern terminal text editor for the rest of us
 - [Installing](#installing)
 - [Building](#building)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 
 ### Project Proposal
 
@@ -48,3 +49,5 @@ Stretch Goals
 ```
 kwk [folder/files]
 ```
+
+### Screenshots
