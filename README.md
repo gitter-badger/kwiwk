@@ -1,4 +1,6 @@
 # kwiwk
+
+[![Join the chat at https://gitter.im/kwiwk/Lobby](https://badges.gitter.im/kwiwk/Lobby.svg)](https://gitter.im/kwiwk/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Modern terminal text editor for the rest of us  
 
 [![Build Status](https://travis-ci.org/russleyshaw/kwiwk.svg?branch=master)](https://travis-ci.org/russleyshaw/kwiwk)  
